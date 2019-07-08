@@ -13,3 +13,4 @@ foreach ($partition in $disky) {
     }  
 
 }
+Write-Output "Something"
