@@ -1,0 +1,1 @@
+$Premenna = "bla bla";Write-Output $premenna
